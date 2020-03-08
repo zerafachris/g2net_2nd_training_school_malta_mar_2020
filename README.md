@@ -27,7 +27,17 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [CZ - ML3 - Metrics](Lectures/ML_Christopher_Zerafa/ML3_Metrics.ipynb)
     - [CZ - ML4 - Model Selection and Feature Engineering](Lectures/ML_Christopher_Zerafa/ML4_Model_Selection.ipynb)
 - **DL** - Deep Learning - Luca Antiga
+    - [DL1]
+    - [DL2]
+    - [DL3]
+    - [DL4]
 - **GRAV**	- Gravitational Data Talk - Michal Bejger & Jade Powell
+    - [MB - GRAV]
+    - [JP - GRAV]
 - **GEO**	- Geophysical Data Talk - Tomek Bulik
+    - [GEO]
 - **HACK**	- Machine Learning Hackaton - Christopher Zerafa, Filip Morawski, Alberto Iess
+    - Platform: [g2net - Hack](http://88.198.90.93/)
+    - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
+    - Deadline: _**Friday 13/03/2020 13:00 GMT+1**_
 ---
