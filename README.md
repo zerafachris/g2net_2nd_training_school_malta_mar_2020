@@ -4,21 +4,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 	
 ----
 ## TimeTable 
-![pic]('pics/timetable.png')
-
-| ﻿**Time** | **09/03/2020 - Monday** | **10/03/2020 - Tuesday** | **11/03/2020 - Wednesday** | **12/03/2020 - Thursday** | **13/03/2020 - Friday** |
-|:-------------:|--------------------------|--------------------------|------------------------|-----------------------|----------------------------------|
-| 8:30 - 09:00 | Registration | Registration | Registration | Registration | Registration |
-| 09:00 - 10:00 | Opening | ML4 - Christopher Zerafa | GRAV1 - Michal Bejger | HACK2 | GEO1 - Tomek Bulik |
-| 10:00 - 11:00 | SP1 - Eftim Zdravevski | ML5 - Luigia Petre | GRAV2 - Michal Bejger | HACK3 | GEO2 - Tomek Bulik |
-| 11:00 - 11:30 | Coffee | Coffee | Coffee | Coffee | Coffee |
-| 11:30 - 12:30 | SP2 - Eftim Zdravevski | ML6 - Luigia Petre | GRAV3 - Jade Powell | HACK4 | HACK10 |
-| 12:30 - 13:30 | SP3 - Eftim Zdravevski | ML7 - Luiga Petre | GRAV4 - Jade Powell | HACK5 | HACK11 - Presentation of Results |
-| 13:30 - 14:30 | Lunch | Lunch | Lunch | Lunch | End of School |
-| 14:30 - 15:30 | ML1 - Christopher Zerafa | ML8 - Luigia Petre | DL3 - Luca Antiga | HACK6 |  |
-| 15:30 - 16:30 | ML2 - Christopher Zerafa | DL1 - Luca Antiga | DL4 - Luca Antiga | HACK7 |  |
-| 16:30 - 17:00 | Coffee | Coffee | Coffee | Coffee |  |
-| 17:00 - 18:00 | ML3 - Christopher Zerafa | DL2 - Luca Antiga | HACK1 - CZ, FP, AI | HACK9 |  |
+![timetable](pics/timetable.png)
 
 | **Module Code** | **Topic**                   |
 |:-------------:|-------------------------|
@@ -32,6 +18,9 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 ----
 ### Lectures
 1. **SP** - Signal Processing - Eftim Zdravevski
+    - [0_Preparing_Environment](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_0_preparing_environment.ipynb)
+    - [1_Introduction_and_Visualization](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_1_introduction_and_visualization.ipynb)
+    - [2_Preparing_GW_Data](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_2_preparing_GW_data.ipynb)
 1. **ML** - Machine Learning - Christopher Zerafa & Luigia Petre
 1. **DL** - Deep Learning - Luca Antiga
 1. **GRAV**	- Gravitational Data Talk - Michal Bejger & Jade Powell
