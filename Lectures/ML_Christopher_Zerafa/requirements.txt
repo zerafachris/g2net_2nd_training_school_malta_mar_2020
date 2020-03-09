@@ -223,7 +223,7 @@ statsmodels==0.10.1
 sympy==1.4
 tables==3.5.2
 tblib==1.4.0
-tensorflow==2.0.0
+tensorflow==2.0.1
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
