@@ -21,20 +21,23 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [SP1 - Preparing Environment](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_0_preparing_environment.ipynb)
     - [SP2 - Introduction and Visualization](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_1_introduction_and_visualization.ipynb)
     - [SP3 - Preparing GW Data](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_2_preparing_GW_data.ipynb)
-- **ML** - Machine Learning - Christopher Zerafa & Luigia Petre
-    - [CZ - ML1 - Introduction to Python & Machine Learning](Lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML.ipynb)
-    - [CZ - ML2_3 - Classification vs Regression and Metrics](Lectures/ML_Christopher_Zerafa/ML2_3_Classification_Regression_Metrics.ipynb)
-    - [CZ - ML4 - Model Selection and Feature Engineering](Lectures/ML_Christopher_Zerafa/ML4_Model_Selection.ipynb)
+- **ML** - Machine Learning - Christopher Zerafa, Luigia Petre
+    - [CZ - ML1 - Introduction to Python & Machine Learning](Lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML.html)
+    - [CZ - ML2_3 - Classification vs Regression and Metrics](Lectures/ML_Christopher_Zerafa/ML2_3_Classification_Regression_Metrics.html)
+    - [CZ - ML4 - Model Selection and Feature Engineering](Lectures/ML_Christopher_Zerafa/ML4_Model_Selection.html)
 - **DL** - Deep Learning - Luca Antiga
-    - [DL1]
-    - [DL2]
-    - [DL3]
-    - [DL4]
-- **GRAV**	- Gravitational Data Talk - Michal Bejger & Jade Powell
-    - [MB - GRAV]
-    - [JP - GRAV]
-- **GEO**	- Geophysical Data Talk - Tomek Bulik & Gregory Beroza
-    - [GEO]
+    - [DL1 - Neural networks and back-propagation]
+    - [DL2 - PyTorch basics]
+    - [DL3 - Deep learning in PyTorch] 
+    - [DL4 - Deep learning for g2net data]
+- **GRAV**	- Gravitational Data Talk - Michal Bejger, Jade Powell
+    - [MB - GRAV1 - ]
+    - [MB - GRAV2 - ]
+    - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](Lectures/GRAV_GW_Data_Jade_Powell.pdf)
+- **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
+    - [TB - GEO1]
+    - [TB - GEO2]
+    - [GB - GEO3 - Deep Learning Applied to Earthquake Signals]
 - **HACK**	- Machine Learning Hackaton - Christopher Zerafa, Filip Morawski, Alberto Iess
     - Platform: [g2net - Hack](http://88.198.90.93/)
     - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
