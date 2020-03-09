@@ -22,7 +22,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [SP2 - Introduction and Visualization](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_1_introduction_and_visualization.ipynb)
     - [SP3 - Preparing GW Data](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_2_preparing_GW_data.ipynb)
 - **ML** - Machine Learning - Christopher Zerafa, Luigia Petre
-    - [CZ - ML1 - Introduction to Python & Machine Learning](Lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML.html)
+    - [CZ - ML1 - Introduction to Python & Machine Learning](Lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML.md)
     - [CZ - ML2_3 - Classification vs Regression and Metrics](Lectures/ML_Christopher_Zerafa/ML2_3_Classification_Regression_Metrics.html)
     - [CZ - ML4 - Model Selection and Feature Engineering](Lectures/ML_Christopher_Zerafa/ML4_Model_Selection.html)
 - **DL** - Deep Learning - Luca Antiga
