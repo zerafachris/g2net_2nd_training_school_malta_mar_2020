@@ -18,13 +18,13 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 ----
 ### Lectures
 - **SP** - Signal Processing - Eftim Zdravevski
-    - [SP1 - Preparing Environment](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_0_preparing_environment.ipynb)
-    - [SP2 - Introduction and Visualization](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_1_introduction_and_visualization.ipynb)
-    - [SP3 - Preparing GW Data](Lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_2_preparing_GW_data.ipynb)
+    - [SP1 - Preparing Environment](lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_0_preparing_environment.ipynb)
+    - [SP2 - Introduction and Visualization](lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_1_introduction_and_visualization.ipynb)
+    - [SP3 - Preparing GW Data](lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_2_preparing_GW_data.ipynb)
 - **ML** - Machine Learning - Christopher Zerafa, Luigia Petre
-    - [CZ - ML1 - Introduction to Python & Machine Learning](Lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML/ML1_Intro_Python_ML.md)
-    - [CZ - ML2_3 - Classification vs Regression and Metrics](Lectures/ML_Christopher_Zerafa/ML2_3_Classification_Regression_Metrics/ML2_3_Classification_Regression_Metrics.md)
-    - [CZ - ML4 - Model Selection and Feature Engineering](Lectures/ML_Christopher_Zerafa/ML4_Model_Selection/ML4_Model_Selection.md)
+    - [CZ - ML1 - Introduction to Python & Machine Learning](lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML/ML1_Intro_Python_ML.md)
+    - [CZ - ML2_3 - Classification vs Regression and Metrics](lectures/ML_Christopher_Zerafa/ML2_3_Classification_Regression_Metrics/ML2_3_Classification_Regression_Metrics.md)
+    - [CZ - ML4 - Model Selection and Feature Engineering](lectures/ML_Christopher_Zerafa/ML4_Model_Selection/ML4_Model_Selection.md)
 - **DL** - Deep Learning - Luca Antiga
     - [DL1 - Neural networks and back-propagation]
     - [DL2 - PyTorch basics]
@@ -33,7 +33,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 - **GRAV**	- Gravitational Data Talk - Michal Bejger, Jade Powell
     - [MB - GRAV1 - ]
     - [MB - GRAV2 - ]
-    - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](Lectures/GRAV_GW_Data_Jade_Powell.pdf)
+    - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](lectures/GRAV_GW_Data_Jade_Powell.pdf)
 - **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
     - [TB - GEO1]
     - [TB - GEO2]
