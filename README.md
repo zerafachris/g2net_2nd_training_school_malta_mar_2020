@@ -33,7 +33,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 - **GRAV**	- Gravitational Data Talk - Michal Bejger & Jade Powell
     - [MB - GRAV]
     - [JP - GRAV]
-- **GEO**	- Geophysical Data Talk - Tomek Bulik
+- **GEO**	- Geophysical Data Talk - Tomek Bulik & Gregory Beroza
     - [GEO]
 - **HACK**	- Machine Learning Hackaton - Christopher Zerafa, Filip Morawski, Alberto Iess
     - Platform: [g2net - Hack](http://88.198.90.93/)
