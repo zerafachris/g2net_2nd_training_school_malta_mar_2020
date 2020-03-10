@@ -34,8 +34,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [DL3 - Deep learning in PyTorch] 
     - [DL4 - Deep learning for g2net data]
 - **GRAV**	- Gravitational Data Talk - Michal Bejger, Jade Powell
-    - [MB - GRAV1 - ]
-    - [MB - GRAV2 - ]
+    - [MB - GRAV1_2 - Introduction to Gravitational Waves](lectures/GRAV_Intro_gw12_bejger_g2net_malta.pdf)
     - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](lectures/GRAV_GW_Data_Jade_Powell.pdf)
 - **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
     - [TB - GEO1]
