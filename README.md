@@ -25,6 +25,9 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [CZ - ML1 - Introduction to Python & Machine Learning](lectures/ML_Christopher_Zerafa/ML1_Intro_Python_ML/ML1_Intro_Python_ML.md)
     - [CZ - ML2_3 - Classification vs Regression and Metrics](lectures/ML_Christopher_Zerafa/ML2_3_Classification_Regression_Metrics/ML2_3_Classification_Regression_Metrics.md)
     - [CZ - ML4 - Model Selection and Feature Engineering](lectures/ML_Christopher_Zerafa/ML4_Model_Selection/ML4_Model_Selection.md)
+    - [LP - ML5_6 - Trees And Ensembles](lectures/ML_Luigia_Petre/ML5_6_TreesAndEnsembles.ipynb)
+    - [LP - ML7 - Naïve Bayes](lectures/ML_Luigia_Petre/ML7_naiveBayes.ipynb)
+    - [LP - ML8 - Support Vector Machines](lectures/ML_Luigia_Petre/ML8_SupportVectorMachines.ipynb)
 - **DL** - Deep Learning - Luca Antiga
     - [DL1 - Neural networks and back-propagation]
     - [DL2 - PyTorch basics]
