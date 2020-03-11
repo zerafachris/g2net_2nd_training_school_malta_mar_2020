@@ -6,6 +6,8 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 ## Group Photo
 ![group_photo](pics/group_photos/group_photo.jpg)
 
+You can find photo album with pictures [here](https://photos.app.goo.gl/UshkScGxn7LBtMXR6).
+
 ---
 ## TimeTable 
 ![timetable](pics/timetable.png)
