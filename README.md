@@ -16,7 +16,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 | HACK        | ML Hackaton             |
 
 ----
-### Lectures
+## Lectures
 - **SP** - Signal Processing - Eftim Zdravevski
     - [SP1 - Preparing Environment](lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_0_preparing_environment.ipynb)
     - [SP2 - Introduction and Visualization](lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_1_introduction_and_visualization.ipynb)
@@ -45,3 +45,5 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
     - Deadline: _**Friday 13/03/2020 13:00 GMT+1**_
 ---
+## Resources
+- [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
