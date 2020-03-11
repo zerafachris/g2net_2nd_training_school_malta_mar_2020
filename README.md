@@ -4,7 +4,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 
 ----
 ![group_photo](pics/group_photos/group_photo.jpg)
----
+
 ## TimeTable 
 ![timetable](pics/timetable.png)
 
@@ -17,7 +17,6 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 | GEO         | Geophysical Data Talk   |
 | HACK        | ML Hackaton             |
 
-----
 ## Lectures
 - **SP** - Signal Processing - Eftim Zdravevski
     - [SP1 - Preparing Environment](lectures/SP_Signal_Processing_Introduction-Eftim_Zdravevski/signal_processing_0_preparing_environment.ipynb)
@@ -46,10 +45,11 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - Platform: [g2net - Hack](http://88.198.90.93/)
     - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
     - Deadline: _**Friday 13/03/2020 13:00 GMT+1**_
----
+
 ## Resources
 - [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 
----
-## Phots
+## Photos
 You can find photo album with pictures [here](https://photos.app.goo.gl/UshkScGxn7LBtMXR6).
+
+---
