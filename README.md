@@ -1,8 +1,12 @@
 # [g2net](https://www.g2net.eu/) - 2nd Training School - Machine Learning and Signal processing for Time Series Analysis
 ## CA17137 - A network for Gravitational Waves, Geophysics and Machine Learning
 Teaching material for '[g2net - 2nd Training School - Machine Learning and Signal processing for Time Series Analysis](https://indico.ego-gw.it/event/46/)' held at the University of Malta, Valletta Campus, Malta, 9-13 March 2020.
-	
+
 ----
+## Group Photo
+![group_photo](pics/group_photos/group_photo.jpg)
+
+---
 ## TimeTable 
 ![timetable](pics/timetable.png)
 
