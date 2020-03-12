@@ -30,10 +30,19 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [LP - ML7 - Naïve Bayes](lectures/ML_Luigia_Petre/ML7_naiveBayes.ipynb)
     - [LP - ML8 - Support Vector Machines](lectures/ML_Luigia_Petre/ML8_SupportVectorMachines.ipynb)
 - **DL** - Deep Learning - Luca Antiga
-    - [DL1 - Neural networks and back-propagation]
-    - [DL2 - PyTorch basics]
-    - [DL3 - Deep learning in PyTorch] 
-    - [DL4 - Deep learning for g2net data]
+    - Lectures
+        - [DL1_2 - Neural networks and back-propagation & PyTorch basics](lectures/DL_Luca_Antiga/g2net_part1.pdf)
+        - [DL3_4 - Deep learning in PyTorch & Deep learning for g2net data](lectures/DL_Luca_Antiga/g2net_part2.pdf)
+    - Notebooks
+        - [1.1-PyTorch-Basics](lectures/DL_Luca_Antiga/1.1-PyTorch-Basics.ipynb)
+        - [1.2-Linear-Regression](lectures/DL_Luca_Antiga/1.2-Linear-Regression.ipynb)
+        - [1.3-Multi-Class-Logisitc-Regression](lectures/DL_Luca_Antiga/1.3-Multi-Class-Logisitc-Regression.ipynb)
+        - [2.1-Convolutional-Neural-Networks](lectures/DL_Luca_Antiga/2.1-Convolutional-Neural-Networks.ipynb)
+        - [2.2-Pretrained-ResNet-Imagenet](lectures/DL_Luca_Antiga/2.2-Pretrained-ResNet-Imagenet.ipynb)
+        - [2.3-TransferLearning-MNIST](lectures/DL_Luca_Antiga/2.3-TransferLearning-MNIST.ipynb)
+        - [2.4-Finetuning-Hymenoptera](lectures/DL_Luca_Antiga/2.4-Finetuning-Hymenoptera.ipynb)
+        - [2.5-CharRNN](lectures/DL_Luca_Antiga/2.5-CharRNN.ipynb)
+    
 - **GRAV**	- Gravitational Data Talk - Michal Bejger, Jade Powell
     - [MB - GRAV1_2 - Introduction to Gravitational Waves](lectures/GRAV_Intro_gw12_bejger_g2net_malta.pdf)
     - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](lectures/GRAV_GW_Data_Jade_Powell.pdf)
