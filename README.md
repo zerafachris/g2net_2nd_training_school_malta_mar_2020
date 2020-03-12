@@ -48,7 +48,9 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 - **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
     - [TB - GEO1]
     - [TB - GEO2]
-    - [GB - GEO3 - Deep Learning Applied to Earthquake Signals](lectures/GEO_DL_Applied_to_ES_Beroza.pdf)
+    - GB - GEO3 - Deep Learning Applied to Earthquake Signals
+        - [Slides](lectures/GEO_DL_Applied_to_ES_Beroza.pdf)
+        - [Recording](https://universityofmalta.zoom.us/rec/share/98xOPaiq2EBOfNLE82CCY5UtIqL9X6a8hiRL-foJyxyHSAUNgZKnAV7e3CxsptI0?startTime=1584025268000)
 - **HACK**	- Machine Learning Hackaton - Christopher Zerafa, Filip Morawski, Alberto Iess
     - Platform: [g2net - Hack](http://88.198.90.93/)
     - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
