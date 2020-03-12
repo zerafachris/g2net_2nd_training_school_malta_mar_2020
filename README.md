@@ -42,14 +42,13 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
         - [2.3-TransferLearning-MNIST](lectures/DL_Luca_Antiga/2.3-TransferLearning-MNIST.ipynb)
         - [2.4-Finetuning-Hymenoptera](lectures/DL_Luca_Antiga/2.4-Finetuning-Hymenoptera.ipynb)
         - [2.5-CharRNN](lectures/DL_Luca_Antiga/2.5-CharRNN.ipynb)
-    
 - **GRAV**	- Gravitational Data Talk - Michal Bejger, Jade Powell
     - [MB - GRAV1_2 - Introduction to Gravitational Waves](lectures/GRAV_Intro_gw12_bejger_g2net_malta.pdf)
     - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](lectures/GRAV_GW_Data_Jade_Powell.pdf)
 - **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
     - [TB - GEO1]
     - [TB - GEO2]
-    - [GB - GEO3 - Deep Learning Applied to Earthquake Signals]
+    - [GB - GEO3 - Deep Learning Applied to Earthquake Signals](lectures/GEO_DL_Applied_to_ES_Beroza.pdf)
 - **HACK**	- Machine Learning Hackaton - Christopher Zerafa, Filip Morawski, Alberto Iess
     - Platform: [g2net - Hack](http://88.198.90.93/)
     - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
