@@ -46,8 +46,9 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - [MB - GRAV1_2 - Introduction to Gravitational Waves](lectures/GRAV_Intro_gw12_bejger_g2net_malta.pdf)
     - [JP - GRAV3_4 - Gravitational Wave Data Analysis with Machine Learning](lectures/GRAV_GW_Data_Jade_Powell.pdf)
 - **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
-    - [TB - GEO1]
-    - [TB - GEO2]
+    - TB - GEO1_2
+        - [Slides]
+        - [Recording]
     - GB - GEO3 - Deep Learning Applied to Earthquake Signals
         - [Slides](lectures/GEO_DL_Applied_to_ES_Beroza.pdf)
         - [Recording](https://universityofmalta.zoom.us/rec/share/98xOPaiq2EBOfNLE82CCY5UtIqL9X6a8hiRL-foJyxyHSAUNgZKnAV7e3CxsptI0?startTime=1584025268000)
