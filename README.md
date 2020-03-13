@@ -48,7 +48,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
 - **GEO**	- Geophysical Data Talk - Tomek Bulik, Gregory Beroza
     - TB - GEO1_2
         - [Slides](lectures/GEO_Tomasz_Bulik_Introduction_to_geophysics.odp)
-        - [Recording]
+        - [Recording](https://youtu.be/t84sOY8Czic)
     - GB - GEO3 - Deep Learning Applied to Earthquake Signals
         - [Slides](lectures/GEO_DL_Applied_to_ES_Beroza.pdf)
         - [Recording](https://youtu.be/3_0HWgzIXw8)
