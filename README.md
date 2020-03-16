@@ -2,7 +2,7 @@
 
 <div class="row">
     <div class="column">
-        <img src="pics/logo_g2net.png" width="600">
+        <img src="pics/logo_g2net.png" width="400">
     </div>
     <div class="column">
         <img src="pics/logo_cost.jpg" width="400">
