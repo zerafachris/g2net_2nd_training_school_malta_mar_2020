@@ -63,7 +63,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - Leaderboard:
     
     | Rank |  Participant Name  | Notebook | Score (balanced_accuracy) |
-    |------|:------------------:|:--------:|---------------------------|
+    |:------:|:------------------|:--------|:---------------------------:|
     | 1    |     Ondřej Zelenka | [script_1](HACK_leader_board/HACK_1_hackathon_final_model_zelenka)            | 81%                       |
     | 2    |     Filip Morawski | [notebook_2](HACK_leader_board/HACK_2_Random_Forrest_new_meta.ipynb)        | 78%                       |
     | 3    | Christopher Zerafa | [notebook_3](HACK_leader_board/HACK_3_zerafachris/99_ML_v2_02_Augment_With_Avg_Noise.ipynb)        | 76%                       | 
