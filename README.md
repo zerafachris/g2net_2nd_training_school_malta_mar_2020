@@ -2,10 +2,10 @@
 
 <div class="row">
     <div class="column">
-        <img src="pics/logo_g2net.png" width="400">
+        <img src="pics/logo_g2net.png" width="200">
     </div>
     <div class="column">
-        <img src="pics/logo_cost.jpg" width="400">
+        <img src="pics/logo_cost.jpg" width="200">
     </div>
 </div>
 
