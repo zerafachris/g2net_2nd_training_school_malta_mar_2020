@@ -33,6 +33,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - Lectures
         - [DL1_2 - Neural networks and back-propagation & PyTorch basics](lectures/DL_Luca_Antiga/g2net_part1.pdf)
         - [DL3_4 - Deep learning in PyTorch & Deep learning for g2net data](lectures/DL_Luca_Antiga/g2net_part2.pdf)
+        - [Lecture Recording - DL1](https://youtu.be/LBMAUEdNWDk)
     - Notebooks
         - [1.1-PyTorch-Basics](lectures/DL_Luca_Antiga/1.1-PyTorch-Basics.ipynb)
         - [1.2-Linear-Regression](lectures/DL_Luca_Antiga/1.2-Linear-Regression.ipynb)
@@ -54,8 +55,18 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
         - [Recording](https://youtu.be/3_0HWgzIXw8)
 - **HACK**	- Machine Learning Hackaton - Christopher Zerafa, Filip Morawski, Alberto Iess
     - Platform: [g2net - Hack](http://88.198.90.93/)
-    - Data: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
+    - Notebooks: [g2net_malta_hackaton](https://github.com/zerafachris/g2net_malta_hackaton)
+    - Data: [datasets](https://www.kaggle.com/zerafachris/g2net-training-school-hackaton)
     - Deadline: _**Friday 13/03/2020 13:00 GMT+1**_
+    - Baseline Model: [notebook](HACK_leader_board/HACK_Baseline_Model/99_ML_Random_Forest_Baseline.ipynb)
+    - Leaderboard:
+    
+    | Rank |  Participant Name  | Notebook | Score (balanced_accuracy) |
+    |------|:------------------:|:--------:|---------------------------|
+    | 1    |     Ondřej Zelenka | [script_1](HACK_leader_board/HACK_1_hackathon_final_model_zelenka)            | 81%                       |
+    | 2    |     Filip Morawski | [notebook_2](HACK_leader_board/HACK_2_Random_Forrest_new_meta.ipynb)        | 78%                       |
+    | 3    | Christopher Zerafa | [notebook_3](HACK_leader_board/HACK_3_zerafachris/99_ML_v2_02_Augment_With_Avg_Noise.ipynb)        | 76%                       | 
+    
 
 ## Resources
 - [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
