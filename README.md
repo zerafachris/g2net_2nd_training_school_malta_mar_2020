@@ -1,7 +1,5 @@
-# [g2net](https://www.g2net.eu/) - 2nd Training School - Machine Learning and Signal processing for Time Series Analysis
-
 <img src="pics/logo_g2net.png" width="500"><img src="pics/logo_cost.jpg" width="300">
-
+# [g2net](https://www.g2net.eu/) - 2nd Training School - Machine Learning and Signal processing for Time Series Analysis
 Teaching material for '[g2net - 2nd Training School - Machine Learning and Signal processing for Time Series Analysis](https://indico.ego-gw.it/event/46/)' held at the University of Malta, Valletta Campus, Malta, 9-13 March 2020.
 
 ----
