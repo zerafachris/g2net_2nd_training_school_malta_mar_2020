@@ -59,6 +59,7 @@ Teaching material for '[g2net - 2nd Training School - Machine Learning and Signa
     - Data: [datasets](https://www.kaggle.com/zerafachris/g2net-training-school-hackaton)
     - Deadline: _**Friday 13/03/2020 13:00 GMT+1**_
     - Baseline Model: [notebook](HACK_leader_board/HACK_Baseline_Model/99_ML_Random_Forest_Baseline.ipynb)
+    - [Recording](https://youtu.be/jUvC_xzjABQ)
     - Leaderboard:
     
     | Rank |  Participant Name  | Notebook | Score (balanced_accuracy) |
